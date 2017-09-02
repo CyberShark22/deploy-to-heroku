@@ -1,0 +1,23 @@
+{
+  "name": "deploy-to-heroku",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyberShark22/deploy-to-heroku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CyberShark22/deploy-to-heroku/issues"
+  },
+  "homepage": "https://github.com/CyberShark22/deploy-to-heroku#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
